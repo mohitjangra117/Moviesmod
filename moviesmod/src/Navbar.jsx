@@ -6,11 +6,11 @@ const Navbar = () => {
     <div className='w-full navbar ' >
    <div className="nav1">
     <div className="logo">
-        <img src='/moviesmodnew-Custom.png' ></img>
+        <img src='moviesmodnew-Custom.png' ></img>
     </div>
     <div className="search">
         <input className=' rounded p-1 searchinput' placeholder='What are you looking for?' ></input>
-        <button><img className='searchimg' src="/search.png" ></img></button>
+        <button><img className='searchimg' src="./search.png" ></img></button>
     </div>
     <div className="lang">
         <button className='btn1'>Bollywood</button>

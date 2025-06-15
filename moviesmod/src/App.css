@@ -175,7 +175,7 @@ justify-content: space-between;
      color: black;
 }
 
-@media(max-width:1300px){
+@media(max-width:1400px){
   .newnav2{
   color:white;
   display: flex;
